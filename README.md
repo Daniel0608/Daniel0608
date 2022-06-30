@@ -22,7 +22,4 @@ Técnico em Análise e Desenvolvimento de Sistemas
 <div>
   <a href = "mailto:dpds9797@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/daniel-paulo-de-souza-b75a58239" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-  ![Snake animation](https://github.com/Daniel0608/Daniel0608/blob/output/github-contribution-grid-snake.svg)
-  
   </div>
