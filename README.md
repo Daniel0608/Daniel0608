@@ -1,5 +1,5 @@
 ## Olá, Eu sou o Daniel Souza
-Técnico em Análise e Desenvolvimento de Sistemas 3º Semestre
+Técnico em Análise e Desenvolvimento de Sistemas
 <div align="center">
   <a href="https://github.com/Daniel0608">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daniel0608&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
